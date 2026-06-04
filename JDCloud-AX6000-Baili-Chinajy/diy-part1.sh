@@ -12,8 +12,8 @@ git clone https://github.com/pymumu/smartdns.git package/smartdns
 git clone -b master https://github.com/vernesong/OpenClash.git package/luci-app-openclash
 # 4.DiskMan磁盘管理
 git clone https://github.com/lisaac/luci-app-diskman.git package/luci-app-diskman
-# 5.FileTransfer文件传输
-git clone https://github.com/immortalwrt/luci-app-filetransfer.git package/luci-app-filetransfer
+# 5.AdvancedPlus 文件管理
+git clone https://github.com/sirpdboy/luci-app-advancedplus.git package/luci-app-advancedplus
 # 6.Lucky端口转发
 git clone https://github.com/gdy666/luci-app-lucky.git package/luci-app-lucky
 # 7.EasyTier异地组网
