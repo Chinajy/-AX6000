@@ -1,0 +1,6 @@
+src-git-full packages https://github.com/immortalwrt/packages.git;openwrt-24.10
+src-git-full luci https://github.com/immortalwrt/luci.git;openwrt-24.10
+src-git-full routing https://github.com/immortalwrt/routing.git;openwrt-24.10
+src-git-full telephony https://github.com/immortalwrt/telephony.git;openwrt-24.10
+# 可选ISTORE应用市场（加末尾）
+src-git istore https://github.com/linkease/istore;main
