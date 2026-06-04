@@ -18,8 +18,6 @@ git clone https://github.com/sirpdboy/luci-app-advancedplus.git package/luci-app
 git clone https://github.com/gdy666/luci-app-lucky.git package/luci-app-lucky
 # 7.EasyTier异地组网
 git clone https://github.com/EasyTier/luci-app-easytier.git package/luci-app-easytier
-# 8.网速测试
-git clone https://github.com/sirpdboy/luci-app-netspeedtest.git package/luci-app-netspeedtest
 # 9.Argon主题（可选）
 git clone https://github.com/jerrykuku/luci-theme-argon.git package/luci-theme-argon
 git clone https://github.com/jerrykuku/luci-app-argon-config.git package/luci-app-argon-config
